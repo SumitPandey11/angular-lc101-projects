@@ -3,7 +3,14 @@ h3 {
 }
 
 img {
+   border-radius: 50%;
+   border: 1px solid #ddd;
 
+   padding: 5px;
+   width: 40%;
+   height: auto;
+   content:'';
+    display: block; 
 }
 
 .photos {
