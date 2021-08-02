@@ -1,0 +1,24 @@
+.divBgColor {
+    background-color: lightblue;
+    
+    
+}
+
+.col-3 {
+    border-style: groove;
+    min-width: 170px;
+
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+    
+}
+
+.center {
+    text-align: center;
+    font-size: 150%;
+    border: 3px solid green;
+    padding: 20px;
+    background-color: #FEE140;
+    background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 100%);
+  }
+

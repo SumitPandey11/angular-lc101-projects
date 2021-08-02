@@ -1,13 +1,15 @@
 h3 {
-   color: brown;
+   color: purple;
+   
+   text-align: center;
+   text-decoration: underline;
 }
 
 img {
    border-radius: 50%;
    border: 1px solid #ddd;
-
    padding: 5px;
-   width: 40%;
+   width: 80%;
    height: auto;
    content:'';
     display: block; 
@@ -16,3 +18,4 @@ img {
 .photos {
    text-align: center;
 }
+

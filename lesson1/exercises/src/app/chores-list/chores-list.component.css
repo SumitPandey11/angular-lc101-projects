@@ -1,10 +1,15 @@
 .chores {
         font-family:  "Cursive" , "Lucida Handwriting";
-        font-size: 3vw;
+        font-size: 15px;
         color: purple;
         font-style: italic;
     }
 
     h3 {
+        
+            color: purple;
+            
+            text-align: center;
+        
         text-decoration: underline;
       }
